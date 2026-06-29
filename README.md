@@ -1,2 +1,2 @@
 # AI-Study
-Johanvinney's first step for 
+Johanvinney's first step for AI
